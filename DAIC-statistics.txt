@@ -1,5 +1,0 @@
-depressed: 56
-healthy: 132
-
-males: 101
-females: 87
